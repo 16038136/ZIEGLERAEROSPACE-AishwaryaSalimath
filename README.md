@@ -5,7 +5,7 @@
 
 Create a Trading platform for Aircraft Cabin Components
 
-Expected Technical skills/ Technologies for the project
+TechStack ---
 
 · HTML
 
@@ -19,7 +19,7 @@ Expected Technical skills/ Technologies for the project
 
 · Should be Highly proficient both in Front-end and Back-end technologies.
 
-General Objective:
+* General Objective:
 
 To develop an online trading platform that serves as a forum between authenticated aircraft manufacturers, vendors, aircraft cabin component sellers with the potential or existing buyers/customers. We are expecting a professional and user-friendly platform with notable customization, agility for retailers and customers to manage products, sales and orders efficiently for better purchasing experience.
 
@@ -49,8 +49,4 @@ Product Function:
 
 5. Provide an interface for the sellers to add aircraft cabin components to the website for listing. 6. The seller account to include the feature of receiving the customer orders and responding to them.
 
-7. For customer support from the sellers or the company, implement an interactive messaging platform between the users.
 
-Additional Remarks: Feel free to get creative with any new additional features on the website.
-
-How to submit: Kindly share your assessment with us over Internshala. Also provide us with the screencast of the website you developed.
